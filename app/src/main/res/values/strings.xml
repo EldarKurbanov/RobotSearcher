@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">RobotSearcher</string>
+    <string name="toolbar_main_refresh">Refresh</string>
+</resources>
